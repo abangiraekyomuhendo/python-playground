@@ -1,4 +1,5 @@
 # python-playground
-Will the snake get me or shall I crush its head? Gerrit?
+Will the snake get me or shall I crush its head? 
+Bad Christian-code joke. 
 
-This repository contains files from my time on the "pythong playground"!
+Anywayyy, this repository contains files from my time on the "pythong playground"!
