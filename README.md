@@ -1,4 +1,4 @@
-# python-playground :)
+# python-playground
 
 
 To be updated, soon!
